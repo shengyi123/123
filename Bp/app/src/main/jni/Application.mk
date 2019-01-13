@@ -1,0 +1,2 @@
+APP_MODULES:=JniBp
+APP_ABI:=all
